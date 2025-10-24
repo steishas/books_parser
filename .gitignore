@@ -13,6 +13,7 @@ pip-delete-this-directory.txt
 
 # Jupyter
 .ipynb_checkpoints/
+*/.ipynb_checkpoints/
 
 # IDE
 .vscode/

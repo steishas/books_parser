@@ -73,15 +73,6 @@ python -c "from scraper import scrape_books; scrape_books(save_flag=True, pages_
 ```
 </details>
 
- <details>
-<summary><b>С ограничением по страницам</b></summary>
-
-```bash
-python -c "from scraper import scrape_books; scrape_books(save_flag=True, pages_num=3)"
-```
-</details>
-
-
 ### 5. Запуск тестов
 
 ```bash
@@ -167,4 +158,5 @@ Python 3.10+
 
 - Обновляйте requirements.txt при добавлении новых зависимостей.
   
+
 

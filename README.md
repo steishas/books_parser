@@ -26,7 +26,7 @@ books_parser/
 
 ```bash
 git clone https://github.com/steishas/books_parser
-cd books-parser
+cd books_parser
 ```
  
 ### 2. Создание виртуального окружения
@@ -167,3 +167,4 @@ Python 3.10+
 
 - Обновляйте requirements.txt при добавлении новых зависимостей.
   
+

@@ -14,6 +14,16 @@ pip-delete-this-directory.txt
 # Jupyter
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Временные файлы
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db
 
 # IDE
 .vscode/
